@@ -11,7 +11,7 @@ namespace ConsoleApp18
         static void Main(string[] args)
         {
             Console.WriteLine("good night");
-            Console.ReadLine();
+            Console.WriteLine("this is the second change in the code");
         }
       
     }
