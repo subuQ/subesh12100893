@@ -10,7 +10,7 @@ namespace ConsoleApp18
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("good morning");
+            Console.WriteLine("good night");
             Console.ReadLine();
         }
       

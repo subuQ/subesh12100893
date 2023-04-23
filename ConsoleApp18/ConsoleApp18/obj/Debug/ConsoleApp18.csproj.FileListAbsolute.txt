@@ -5,3 +5,10 @@ C:\Users\subes\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
 C:\Users\subes\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
 C:\Users\subes\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
 C:\Users\subes\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\subes\OneDrive\Documents\GitHub\subesh12100893\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
